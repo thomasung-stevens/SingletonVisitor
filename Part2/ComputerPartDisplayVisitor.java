@@ -1,4 +1,3 @@
-package Part2;
 public class ComputerPartDisplayVisitor implements ComputerPartVisitor {
     
     @Override
